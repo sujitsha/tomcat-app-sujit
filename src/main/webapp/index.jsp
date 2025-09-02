@@ -42,7 +42,7 @@
                 <h1 class="hero-title">
                     Welcome to 
                     <span class="gradient-text">JDKT Training</span>
-                    <div class="batch-badge">Batch 06</div>
+                    <div class="batch-badge">Batch 6</div>
                 </h1>
                 <div class="instructor-info">
                     <div class="instructor-avatar">
